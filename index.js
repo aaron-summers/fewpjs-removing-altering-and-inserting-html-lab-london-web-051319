@@ -1,7 +1,7 @@
 // Write your code here!
 main.remove();
 
-var header = document.createElement("h1");
+var element = document.createElement("h1");
 // var headerChild = document.header.appendChild("victory")
 
 // var newHeader = document.querySelector("h1#victory");
